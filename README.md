@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# AssignTrack – Academic Assignment & Project Management Platform
 
 ## Project info
 
